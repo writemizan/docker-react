@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-what can I do now..Tinint
-=======
-This is a test file for checking.
->>>>>>> 9837f0db9e91ad2a6d2fec7dd9c7f8f3a949ba2b
