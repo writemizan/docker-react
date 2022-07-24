@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 what can I do now for this issue.
+=======
+This is new files to commit. Tintin.
+>>>>>>> e82b557808085d10cc5a6bcde5f548bd6ad15409
